@@ -1,0 +1,1 @@
+9999999999{"name": "load-dotenv", "version": "0.1.0", "summary": "Automatically and implicitly load environment variables from .env file", "platform": null, "requires_dist": ["python-dotenv"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}
